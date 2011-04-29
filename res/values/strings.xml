@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, StatusActivity!</string>
+    <string name="app_name">Yamba</string>
+    <string name="titleStatus">Status Update</string>
+    <string name="hintText">Please enter your 140-character status</string>
+    <string name="buttonUpdate">Update</string>
+    <string name="titleUsername">Username</string>
+    <string name="titlePassword">Password</string>
+    <string name="titleApiRoot">http://yamba.marakana.com/api</string>
+    <string name="summaryUsername">Por favor entre com seu usuário</string>
+	<string name="summaryPassword">Por favor entre com a sua senha</string>
+	<string name="summaryApiRoot">URL para a raiz do serviço</string>
+    <string name="titlePrefs">Minhas Preferências</string>
+    <string name="titleServiceStart">Start Service</string>
+    <string name="titleServiceStop">Stop Service</string>
+    <string name="titleTimeline">TimeLine</string>
+</resources>
